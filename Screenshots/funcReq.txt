@@ -1,0 +1,6 @@
+functional requirments:
+1- add new contacts
+2- update a contact
+3- delete a contact
+4- view a contact
+5- merge a duplicated contacts

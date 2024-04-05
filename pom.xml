@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>AEIN.TECH</groupId>
+    <artifactId>Services</artifactId>
+    <version>Unknown</version>
+    <name>quize_1_</name>
+    <description>quize_1_</description>
+    <properties>
+        <java.version>22</java.version>
+    </properties>
+</project>
